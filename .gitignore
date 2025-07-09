@@ -1,0 +1,52 @@
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente virtual
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários / do sistema
+*.swp
+*.bak
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Arquivos de pacotes Python
+*.egg-info/
+*.egg
+
+# Arquivos de build e distribuição
+build/
+dist/
+*.tar.gz
+*.whl
+
+# Arquivos de testes / cobertura
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Arquivos de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter notebooks checkpoints (caso use)
+.ipynb_checkpoints/
+
+exit
+exit.pub
