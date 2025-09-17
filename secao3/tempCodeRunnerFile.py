@@ -1,1 +1,1 @@
-error
+print(novo_nome)
